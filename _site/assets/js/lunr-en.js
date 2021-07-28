@@ -76,11 +76,47 @@ var idx = lunr(function () {
     
     
       this.add({
-          title: "Bank data analysis in Python",
+          title: "UK ACCIDENT ANALYSIS",
           excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
           categories: ["posts"],
           tags: [],
           id: 7
+      })
+      
+    
+      this.add({
+          title: "Airbnb Analysis Project",
+          excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
+          categories: ["posts"],
+          tags: [],
+          id: 8
+      })
+      
+    
+      this.add({
+          title: "Ebola Virus Analysis",
+          excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
+          categories: ["posts"],
+          tags: [],
+          id: 9
+      })
+      
+    
+      this.add({
+          title: "Bank data analysis in Python",
+          excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
+          categories: ["posts"],
+          tags: [],
+          id: 10
+      })
+      
+    
+      this.add({
+          title: "Price Optimization",
+          excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
+          categories: ["posts"],
+          tags: [],
+          id: 11
       })
       
     
@@ -177,8 +213,52 @@ var store = [
     
       
       {
+        "title": "UK ACCIDENT ANALYSIS",
+        "url": "http://localhost:4000/posts/Accident_analysis",
+        "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Airbnb Analysis Project",
+        "url": "http://localhost:4000/posts/airbnb",
+        "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Ebola Virus Analysis",
+        "url": "http://localhost:4000/posts/ebola_virus",
+        "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
         "title": "Bank data analysis in Python",
         "url": "http://localhost:4000/posts/churn",
+        "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Price Optimization",
+        "url": "http://localhost:4000/posts/price_optimization",
         "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
         "teaser":
           

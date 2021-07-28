@@ -41,9 +41,33 @@ var store = [{
         "url": "/portfolio/index.html",
         "teaser": null
       },{
+        "title": "UK ACCIDENT ANALYSIS",
+        "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/Accident_analysis",
+        "teaser": null
+      },{
+        "title": "Airbnb Analysis Project",
+        "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/airbnb",
+        "teaser": null
+      },{
+        "title": "Ebola Virus Analysis",
+        "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/ebola_virus",
+        "teaser": null
+      },{
         "title": "Bank data analysis in Python",
         "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
         "tags": [],
         "url": "/posts/churn",
+        "teaser": null
+      },{
+        "title": "Price Optimization",
+        "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/price_optimization",
         "teaser": null
       }]
