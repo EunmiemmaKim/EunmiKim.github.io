@@ -196,7 +196,7 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://www.eunmiemma_kim.com/portfolio/networks/",
+        "url": "http://localhost:4000/portfolio/networks/",
         "excerpt": "Anomaly Detection in Dynamic Networks (This section is an overview of material available as a preprint on the arXiv.) Introduction...",
         "teaser":
           
@@ -207,7 +207,7 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://www.eunmiemma_kim.com/portfolio/ebola_virus/",
+        "url": "http://localhost:4000/portfolio/ebola_virus/",
         "excerpt": "Ebola Virus Analysis Summary A Shiny app present the distribution of Ebola virus over time. The code is publicly available...",
         "teaser":
           
@@ -218,7 +218,7 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://www.eunmiemma_kim.com/portfolio/Accident_analysis/",
+        "url": "http://localhost:4000/portfolio/Accident_analysis/",
         "excerpt": "UK ACCIDENT ANALYSIS (Code for this project is available on GitHub.) Executive summary There are many accident casualties recorded on...",
         "teaser":
           
@@ -229,7 +229,7 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://www.eunmiemma_kim.com/portfolio/airbnb",
+        "url": "http://localhost:4000/portfolio/airbnb",
         "excerpt": "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
         "teaser":
           
@@ -240,7 +240,7 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://www.eunmiemma_kim.com/portfolio/price_optimization/",
+        "url": "http://localhost:4000/portfolio/price_optimization/",
         "excerpt": "Price Optimization (The code is publicly available on GitHub.) Context Country Beeristan, a high potential market, accounts for nearly 10%...",
         "teaser":
           
@@ -251,7 +251,7 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://www.eunmiemma_kim.com/portfolio/churn_prediction/",
+        "url": "http://localhost:4000/portfolio/churn_prediction/",
         "excerpt": "Churn Prediction Bank Customer (The code is publicly available on GitHub.) Summary Nowadays, there are many competitors coming out on...",
         "teaser":
           
@@ -262,7 +262,7 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://www.eunmiemma_kim.com/portfolio/index.html",
+        "url": "http://localhost:4000/portfolio/index.html",
         "excerpt": "Portfolio Here you’ll find summaries of the major projects I’ve done over the years, which are representative of my skills...",
         "teaser":
           
@@ -277,7 +277,7 @@ var store = [
       
       {
         "title": "Anomaly Detection in Dynamic Networks",
-        "url": "http://www.eunmiemma_kim.com/posts/dynamic",
+        "url": "http://localhost:4000/posts/dynamic",
         "excerpt": "“Data analysis” is a hugely popular thing these days, for obvious reasons. When most people think of “data,” they think...",
         "teaser":
           
@@ -288,7 +288,7 @@ var store = [
       
       {
         "title": "Building a Personal Site with Jekyll & Minimal Mistakes",
-        "url": "http://www.eunmiemma_kim.com/posts/website",
+        "url": "http://localhost:4000/posts/website",
         "excerpt": "I learned a lot while building this website; I hope to share it so that it might be helpful for...",
         "teaser":
           
@@ -299,7 +299,7 @@ var store = [
       
       {
         "title": "The Meaning of Entropy",
-        "url": "http://www.eunmiemma_kim.com/posts/entropy",
+        "url": "http://localhost:4000/posts/entropy",
         "excerpt": "Entropy is a word that we see a lot in various forms. It’s classical use comes from thermodynamics: e.g. “the...",
         "teaser":
           
@@ -310,7 +310,7 @@ var store = [
       
       {
         "title": "Algorithmic Musical Genre Classification",
-        "url": "http://www.eunmiemma_kim.com/posts/genre",
+        "url": "http://localhost:4000/posts/genre",
         "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
         "teaser":
           
@@ -321,7 +321,7 @@ var store = [
       
       {
         "title": "Inverse Transform Sampling in Python",
-        "url": "http://www.eunmiemma_kim.com/posts/sampling",
+        "url": "http://localhost:4000/posts/sampling",
         "excerpt": "When doing data work, we often need to sample random variables. This is easy to do if one wishes to...",
         "teaser":
           
@@ -332,7 +332,7 @@ var store = [
       
       {
         "title": "Types as Propositions",
-        "url": "http://www.eunmiemma_kim.com/posts/types",
+        "url": "http://localhost:4000/posts/types",
         "excerpt": "Some of the most meaningful mathematical realizations that I’ve had have been unexpected connections between two topics; that is, realizing...",
         "teaser":
           
@@ -343,7 +343,7 @@ var store = [
       
       {
         "title": "New Paper: Metrics For Graph Comparison",
-        "url": "http://www.eunmiemma_kim.com/posts/metrics-paper",
+        "url": "http://localhost:4000/posts/metrics-paper",
         "excerpt": "I just put a new paper up on the arXiv, and so I thought I would share it here. This...",
         "teaser":
           
@@ -354,7 +354,7 @@ var store = [
       
       {
         "title": "DS Interview Study Guide Part I: Statistics",
-        "url": "http://www.eunmiemma_kim.com/posts/stats",
+        "url": "http://localhost:4000/posts/stats",
         "excerpt": "As I have gone through a couple rounds of interviews for data scientist positions, I’ve been compiling notes on what...",
         "teaser":
           
@@ -365,7 +365,7 @@ var store = [
       
       {
         "title": "DS Interview Study Guide Part II: Software Engineering",
-        "url": "http://www.eunmiemma_kim.com/posts/engineering",
+        "url": "http://localhost:4000/posts/engineering",
         "excerpt": "This post continues my series on data science interviews. One of the major difficulty of doing data science interviews is...",
         "teaser":
           
@@ -376,7 +376,7 @@ var store = [
       
       {
         "title": "Your p-values Are Bogus",
-        "url": "http://www.eunmiemma_kim.com/posts/bogus",
+        "url": "http://localhost:4000/posts/bogus",
         "excerpt": "People often use a Gaussian to approximate distributions of sample means. This is generally justified by the central limit theorem,...",
         "teaser":
           
@@ -387,7 +387,7 @@ var store = [
       
       {
         "title": "Blogging in Org Mode",
-        "url": "http://www.eunmiemma_kim.com/post/blogging-in-org",
+        "url": "http://localhost:4000/post/blogging-in-org",
         "excerpt": "I recently transitioned from writing my posts directly in markdown to writing them in org mode, a document authoring system...",
         "teaser":
           
@@ -398,7 +398,7 @@ var store = [
       
       {
         "title": "NetComp: Network Comparison in Python",
-        "url": "http://www.eunmiemma_kim.com/posts/churn",
+        "url": "http://localhost:4000/posts/churn",
         "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
         "teaser":
           
