@@ -11,19 +11,10 @@ var idx = lunr(function () {
     
       this.add({
           title: " ",
-          excerpt: "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
-          categories: [],
-          tags: null,
-          id: 0
-      })
-      
-    
-      this.add({
-          title: " ",
           excerpt: "Anomaly Detection in Dynamic Networks (This section is an overview of material available as a preprint on the arXiv.) Introduction...",
           categories: [],
           tags: [],
-          id: 1
+          id: 0
       })
       
     
@@ -31,6 +22,15 @@ var idx = lunr(function () {
           title: " ",
           excerpt: "Ebola Virus Analysis Summary A Shiny app present the distribution of Ebola virus over time. The code is publicly available...",
           categories: ["machine_learning"],
+          tags: [],
+          id: 1
+      })
+      
+    
+      this.add({
+          title: " ",
+          excerpt: "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
+          categories: ["Python"],
           tags: [],
           id: 2
       })
@@ -151,17 +151,6 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://localhost:4000/portfolio/airbnb.html",
-        "excerpt": "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
-        "title": " ",
         "url": "http://localhost:4000/portfolio/networks/",
         "excerpt": "Anomaly Detection in Dynamic Networks (This section is an overview of material available as a preprint on the arXiv.) Introduction...",
         "teaser":
@@ -175,6 +164,17 @@ var store = [
         "title": " ",
         "url": "http://localhost:4000/portfolio/ebola_virus/",
         "excerpt": "Ebola Virus Analysis Summary A Shiny app present the distribution of Ebola virus over time. The code is publicly available...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": " ",
+        "url": "http://localhost:4000/portfolio/airbnb/",
+        "excerpt": "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
         "teaser":
           
             null

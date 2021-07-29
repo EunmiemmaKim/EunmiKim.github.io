@@ -1,11 +1,5 @@
 var store = [{
         "title": " ",
-        "excerpt":"Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019. This data file includes all...","categories": [],
-        "tags": null,
-        "url": "/portfolio/airbnb.html",
-        "teaser": null
-      },{
-        "title": " ",
         "excerpt":"Anomaly Detection in Dynamic Networks (This section is an overview of material available as a preprint on the arXiv.) Introduction to Network Data “Data analysis” is a hugely popular thing these days, for obvious reasons. When most people think of “data,” they think of a table where the columns are...","categories": [],
         "tags": [],
         "url": "/portfolio/networks/",
@@ -15,6 +9,12 @@ var store = [{
         "excerpt":"Ebola Virus Analysis Summary A Shiny app present the distribution of Ebola virus over time. The code is publicly available on GitHub. Introduction In this project, I created a Shiny app that summarizes information about the Western African Ebola virus epidemic. Ebola virus disease (EVD), formerly known as Ebola haemorrhagic...","categories": ["machine_learning"],
         "tags": [],
         "url": "/portfolio/ebola_virus/",
+        "teaser": null
+      },{
+        "title": " ",
+        "excerpt":"Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019. This data file includes all...","categories": ["Python"],
+        "tags": [],
+        "url": "/portfolio/airbnb/",
         "teaser": null
       },{
         "title": " ",

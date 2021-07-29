@@ -3,9 +3,10 @@ header:
   overlay_image: /assets/images/research/header.jpg
   caption: "Photo credit: [**Roman Mager**](https://www.unsplash.com)"
 permalink: /portfolio/airbnb/
+category: Python 
 date: 2019-03-01
 toc: true
-toc_label: "Contents"**
+toc_label: "Contents"
 ---
 
 # **Airbnb_NY_project**
