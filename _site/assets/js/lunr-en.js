@@ -11,10 +11,19 @@ var idx = lunr(function () {
     
       this.add({
           title: " ",
+          excerpt: "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
+          categories: [],
+          tags: null,
+          id: 0
+      })
+      
+    
+      this.add({
+          title: " ",
           excerpt: "Anomaly Detection in Dynamic Networks (This section is an overview of material available as a preprint on the arXiv.) Introduction...",
           categories: [],
           tags: [],
-          id: 0
+          id: 1
       })
       
     
@@ -23,24 +32,15 @@ var idx = lunr(function () {
           excerpt: "Ebola Virus Analysis Summary A Shiny app present the distribution of Ebola virus over time. The code is publicly available...",
           categories: ["machine_learning"],
           tags: [],
-          id: 1
-      })
-      
-    
-      this.add({
-          title: " ",
-          excerpt: "UK ACCIDENT ANALYSIS (Code for this project is available on GitHub.) Executive summary There are many accident casualties recorded on...",
-          categories: [],
-          tags: [],
           id: 2
       })
       
     
       this.add({
           title: " ",
-          excerpt: "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
+          excerpt: "MSRP Analysis using Stata Project Summary Predicted the price of cars with features including make, model, year, engine, and other...",
           categories: [],
-          tags: null,
+          tags: [],
           id: 3
       })
       
@@ -65,10 +65,19 @@ var idx = lunr(function () {
     
       this.add({
           title: " ",
-          excerpt: "Portfolio Here you’ll find summaries of the major projects I’ve done over the years, which are representative of my skills...",
+          excerpt: "UK ACCIDENT ANALYSIS (Code for this project is available on GitHub.) Executive summary There are many accident casualties recorded on...",
           categories: [],
           tags: [],
           id: 6
+      })
+      
+    
+      this.add({
+          title: " ",
+          excerpt: "Portfolio Here you’ll find summaries of the major projects I’ve done over the years, which are representative of my skills...",
+          categories: [],
+          tags: [],
+          id: 7
       })
       
     
@@ -76,16 +85,7 @@ var idx = lunr(function () {
     
     
       this.add({
-          title: "UK ACCIDENT ANALYSIS",
-          excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
-          categories: ["posts"],
-          tags: [],
-          id: 7
-      })
-      
-    
-      this.add({
-          title: "Airbnb Analysis Project",
+          title: "MSRP Analysis using Stata",
           excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
           categories: ["posts"],
           tags: [],
@@ -94,7 +94,7 @@ var idx = lunr(function () {
       
     
       this.add({
-          title: "Ebola Virus Analysis",
+          title: "Airbnb Analysis Project",
           excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
           categories: ["posts"],
           tags: [],
@@ -103,7 +103,7 @@ var idx = lunr(function () {
       
     
       this.add({
-          title: "Bank data analysis in Python",
+          title: "UK ACCIDENT ANALYSIS",
           excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
           categories: ["posts"],
           tags: [],
@@ -112,11 +112,29 @@ var idx = lunr(function () {
       
     
       this.add({
-          title: "Price Optimization",
+          title: "Ebola Virus Analysis",
           excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
           categories: ["posts"],
           tags: [],
           id: 11
+      })
+      
+    
+      this.add({
+          title: "Bank data analysis in Python",
+          excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
+          categories: ["posts"],
+          tags: [],
+          id: 12
+      })
+      
+    
+      this.add({
+          title: "Price Optimization",
+          excerpt: "If you are not automatically redirected, please click here\n\n\n\n",
+          categories: ["posts"],
+          tags: [],
+          id: 13
       })
       
     
@@ -129,6 +147,17 @@ var store = [
   
     
     
+    
+      
+      {
+        "title": " ",
+        "url": "http://localhost:4000/portfolio/airbnb.html",
+        "excerpt": "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
+        "teaser":
+          
+            null
+          
+      },
     
       
       {
@@ -155,19 +184,8 @@ var store = [
       
       {
         "title": " ",
-        "url": "http://localhost:4000/portfolio/Accident_analysis/",
-        "excerpt": "UK ACCIDENT ANALYSIS (Code for this project is available on GitHub.) Executive summary There are many accident casualties recorded on...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
-        "title": " ",
-        "url": "http://localhost:4000/portfolio/airbnb",
-        "excerpt": "Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on...",
+        "url": "http://localhost:4000/portfolio/did_project/",
+        "excerpt": "MSRP Analysis using Stata Project Summary Predicted the price of cars with features including make, model, year, engine, and other...",
         "teaser":
           
             null
@@ -199,6 +217,17 @@ var store = [
       
       {
         "title": " ",
+        "url": "http://localhost:4000/portfolio/Accident_analysis/",
+        "excerpt": "UK ACCIDENT ANALYSIS (Code for this project is available on GitHub.) Executive summary There are many accident casualties recorded on...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": " ",
         "url": "http://localhost:4000/portfolio/index.html",
         "excerpt": "Portfolio Here you’ll find summaries of the major projects I’ve done over the years, which are representative of my skills...",
         "teaser":
@@ -213,8 +242,8 @@ var store = [
     
       
       {
-        "title": "UK ACCIDENT ANALYSIS",
-        "url": "http://localhost:4000/posts/Accident_analysis",
+        "title": "MSRP Analysis using Stata",
+        "url": "http://localhost:4000/posts/2019/01/06/did.html",
         "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
         "teaser":
           
@@ -225,7 +254,18 @@ var store = [
       
       {
         "title": "Airbnb Analysis Project",
-        "url": "http://localhost:4000/posts/airbnb",
+        "url": "http://localhost:4000/posts/2020/01/06/airbnb.html",
+        "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "UK ACCIDENT ANALYSIS",
+        "url": "http://localhost:4000/posts/2020/01/06/Accident_analysis.html",
         "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
         "teaser":
           
@@ -236,7 +276,7 @@ var store = [
       
       {
         "title": "Ebola Virus Analysis",
-        "url": "http://localhost:4000/posts/ebola_virus",
+        "url": "http://localhost:4000/posts/2020/01/06/ebola_virus.html",
         "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
         "teaser":
           
@@ -247,7 +287,7 @@ var store = [
       
       {
         "title": "Bank data analysis in Python",
-        "url": "http://localhost:4000/posts/churn",
+        "url": "http://localhost:4000/posts/2020/07/06/churn.html",
         "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
         "teaser":
           
@@ -258,7 +298,7 @@ var store = [
       
       {
         "title": "Price Optimization",
-        "url": "http://localhost:4000/posts/price_optimization",
+        "url": "http://localhost:4000/posts/2020/10/02/price_optimization.html",
         "excerpt": "If you are not automatically redirected, please click here\n\n\n\n",
         "teaser":
           

@@ -1,5 +1,11 @@
 var store = [{
         "title": " ",
+        "excerpt":"Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019. This data file includes all...","categories": [],
+        "tags": null,
+        "url": "/portfolio/airbnb.html",
+        "teaser": null
+      },{
+        "title": " ",
         "excerpt":"Anomaly Detection in Dynamic Networks (This section is an overview of material available as a preprint on the arXiv.) Introduction to Network Data “Data analysis” is a hugely popular thing these days, for obvious reasons. When most people think of “data,” they think of a table where the columns are...","categories": [],
         "tags": [],
         "url": "/portfolio/networks/",
@@ -12,15 +18,9 @@ var store = [{
         "teaser": null
       },{
         "title": " ",
-        "excerpt":"UK ACCIDENT ANALYSIS (Code for this project is available on GitHub.) Executive summary There are many accident casualties recorded on Britain’s road. 46% of those fatal road accident victims were car occupants which cause the fatal injury. According to the World Health Organization, more than 1.25 million people die each...","categories": [],
+        "excerpt":"MSRP Analysis using Stata Project Summary Predicted the price of cars with features including make, model, year, engine, and other properties of the car comparing the price of cars before and after the electronic car was released Electronic cars are introduced to market in 2008-2009, we’d like to use two...","categories": [],
         "tags": [],
-        "url": "/portfolio/Accident_analysis/",
-        "teaser": null
-      },{
-        "title": " ",
-        "excerpt":"Airbnb_NY_project (The code is publicly available on GitHub.) Context Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019. This data file includes all...","categories": [],
-        "tags": null,
-        "url": "/portfolio/airbnb",
+        "url": "/portfolio/did_project/",
         "teaser": null
       },{
         "title": " ",
@@ -36,38 +36,50 @@ var store = [{
         "teaser": null
       },{
         "title": " ",
+        "excerpt":"UK ACCIDENT ANALYSIS (Code for this project is available on GitHub.) Executive summary There are many accident casualties recorded on Britain’s road. 46% of those fatal road accident victims were car occupants which cause the fatal injury. According to the World Health Organization, more than 1.25 million people die each...","categories": [],
+        "tags": [],
+        "url": "/portfolio/Accident_analysis/",
+        "teaser": null
+      },{
+        "title": " ",
         "excerpt":"Portfolio Here you’ll find summaries of the major projects I’ve done over the years, which are representative of my skills and interests. These projects span everything from mathematical physics to machine learning, from finance to advertising, from the theoretical to the practical. The discussion here is generally non-technical; for the...","categories": [],
         "tags": [],
         "url": "/portfolio/index.html",
         "teaser": null
       },{
-        "title": "UK ACCIDENT ANALYSIS",
+        "title": "MSRP Analysis using Stata",
         "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
         "tags": [],
-        "url": "/posts/Accident_analysis",
+        "url": "/posts/2019/01/06/did.html",
         "teaser": null
       },{
         "title": "Airbnb Analysis Project",
         "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
         "tags": [],
-        "url": "/posts/airbnb",
+        "url": "/posts/2020/01/06/airbnb.html",
+        "teaser": null
+      },{
+        "title": "UK ACCIDENT ANALYSIS",
+        "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/2020/01/06/Accident_analysis.html",
         "teaser": null
       },{
         "title": "Ebola Virus Analysis",
         "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
         "tags": [],
-        "url": "/posts/ebola_virus",
+        "url": "/posts/2020/01/06/ebola_virus.html",
         "teaser": null
       },{
         "title": "Bank data analysis in Python",
         "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
         "tags": [],
-        "url": "/posts/churn",
+        "url": "/posts/2020/07/06/churn.html",
         "teaser": null
       },{
         "title": "Price Optimization",
         "excerpt":"If you are not automatically redirected, please click here     ","categories": ["posts"],
         "tags": [],
-        "url": "/posts/price_optimization",
+        "url": "/posts/2020/10/02/price_optimization.html",
         "teaser": null
       }]

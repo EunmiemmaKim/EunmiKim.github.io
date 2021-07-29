@@ -19,21 +19,14 @@ portfolio:
 #        url: /portfolio/coming/
       - title: "Churn Prediction Bank Customers"
         url: /portfolio/churn_prediction/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
+      - title: "Ebola Virus"
+        url: /portfolio/ebola_virus/
+      - title: "Price Optimization"
+        url: /portfolio/price_optimization/
+      - title: "Airbnb NY Project"
+        url: /portfolio/airbnb/
+      - title: "UK Accident Analysis"
+        url: /portfolio/Accident_analysis
+      - title: "MSRP Analysis using Stata"
+        url: /portfolio/did_project
 
-  - title: "Professional"
-    children:
-      - title: "Smart Climate Index"
-        url: /portfolio/sclm
-
-  - title: "Research"
-    children:
-      - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
