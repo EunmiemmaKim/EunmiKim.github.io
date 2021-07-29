@@ -7,4 +7,4 @@ excerpt: "Uncovered patterns that might be hidden in data and gained insight int
 
 If you are not automatically redirected, please [click here](/portfolio/Accident_analysis)
 
-<meta http-equiv="refresh" content="0;url=/portfolio/Accident_analysis">
+<meta http-equiv="refresh" content="0;url=https://eunmiemmakim.github.io/EunmiKim.github.io/portfolio/Accident_analysis">

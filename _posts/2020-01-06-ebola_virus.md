@@ -7,4 +7,4 @@ excerpt: "Ebolar virus analysis using R Shiny App"
 
 If you are not automatically redirected, please [click here](/portfolio/ebola_virus)
 
-<meta http-equiv="refresh" content="0;url=/portfolio/ebola_virus">
+<meta http-equiv="refresh" content="0;url=https://eunmiemmakim.github.io/EunmiKim.github.io/portfolio/ebola_virus">
