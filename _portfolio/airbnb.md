@@ -46,7 +46,7 @@ In this section, we will detail our analysis to the questions of interest mentio
 Correlation is a bivariate analysis that measures the strength of association between two variables and the direction of the relationship. There is no correlation between variables in this dataset. 
 
 <center>
-![이미지](https://ifh.cc/v-ooVuBR)
+![이미지](https://ifh.cc/g/v-ooVuBR)
 </center>
 
 ### **2. Spatial Data Analysis**
@@ -55,7 +55,7 @@ Correlation is a bivariate analysis that measures the strength of association be
 
 Most of airbnb houses are gathered in Brookly and Manhattan.
 <center>
-![이미지](https://ifh.cc/v-p2Z0dK)
+![이미지](https://ifh.cc/g/v-p2Z0dK)
 </center>
 
 **2) Price differences in areas**
@@ -79,7 +79,7 @@ Staten Island |   31   |
 The crowded and popular areas tend to have lower availability customers can use. Overall Brooklyn and Manhattan are the shorter available days customers make a reservations for.
 
 <center>
-![이미지](https://ifh.cc/v-p2Z0dK)
+![이미지](https://ifh.cc/g/v-p2Z0dK)
 </center>
 
 **5) Neighbourhood_group& Room type**
@@ -87,7 +87,7 @@ The crowded and popular areas tend to have lower availability customers can use.
 In Manhattan, there is more types of entire home or apartments than other types, private room and shared room. Airbnb host in other areas post the type of private rooms more than other types.
 
 <center>
-![이미지](https://ifh.cc/v-h4sLj3)
+![이미지](https://ifh.cc/g/v-h4sLj3)
 </center>
 
 
@@ -95,24 +95,24 @@ In Manhattan, there is more types of entire home or apartments than other types,
 
 This showing that the top 20 neighbourhoods which have the rental houses on airbnb among 221 neighbours in New york.
 <center>
-![이미지](https://ifh.cc/v-SUepX2)
+![이미지](https://ifh.cc/g/v-SUepX2)
 </center>
 
 This below picture express the geographical distribution of top 20 neighborhood which are densely populated.It gives the overall sense of how the top 20 airbnb neighborhood are distributed. In the top 20, Manhattan contains more the populated neighborhoods than others. However, the populated neighborhoods in Staten Island have the more expensive rooms than others. 
 <center>
-![이미지](https://ifh.cc/v-4fruip)
+![이미지](https://ifh.cc/g/v-4fruip)
 </center>
 
 **7) Distribution**
 
 It gives the overall sense of how the listings are distributed across neighborhood. 
 <center>
-![이미지](https://ifh.cc/v-qYBIPC)
+![이미지](https://ifh.cc/g/v-qYBIPC)
 </center>
 
 Price is the important factor Map shows the price range of rooms in this 5 areas. Now it is obvious that the highly pulated location would also tend to be costly. There are more tourist in Manhattan than other areas.
 <center>
-![이미지](https://ifh.cc/v-pb4MVp)
+![이미지](https://ifh.cc/g/v-pb4MVp)
 </center>
 
 
@@ -127,7 +127,7 @@ This map follows from our previous analysis. The listings with entire rooms in M
 The wordcloud analysis shows that which words are used more. Mostly, the room type and location words are used. Also, the words including beautiful, luxury, charming, quiet can be used to lure customers. 
 
 <center>
-![이미지](https://ifh.cc/v-O2ca8Z)
+![이미지](https://ifh.cc/g/v-O2ca8Z)
 </center>
 
 
