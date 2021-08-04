@@ -44,11 +44,10 @@ In this section, we will detail our analysis to the questions of interest mentio
 
 ### **1. Correlation Analysis**
 Correlation is a bivariate analysis that measures the strength of association between two variables and the direction of the relationship. There is no correlation between variables in this dataset. 
-<center>
-<img src="{{ "/assets/images/correlation_airbnb.png" | absolute_url }}"
- width="80%" height="80%"  align="center">
-</center>
 
+<img src="{{"/assets/images/correlation_airbnb.png" | absolute_url }}">
+
+![이미지](./assets/images/correlation_airbnb.png)
 
 ### **2. Spatial Data Analysis**
 
@@ -91,8 +90,7 @@ width="80%" height="40%" align="center">
 In Manhattan, there is more types of entire home or apartments than other types, private room and shared room. Airbnb host in other areas post the type of private rooms more than other types.
 
 <center>
-<img src="{{ "/assets/images/airbnb3.png" | absolute_url }}"
- width="80%" height="80%"  align="center">
+<img src="{{ "/assets/images/airbnb3.png" | absolute_url }}">
 </center>
 
 **6) Top 20 densely populated area**
