@@ -10,8 +10,7 @@ permalink: /about/
 
 Hello! Thank you for your interest in my profile.  My name is Eunmi Kim, and I’d like to tell you a little bit more about myself. I have a bachelors degree in industrial engineering from Hongik University at South Korea. I went abroad to study business and English. To do so, I got business certificate at University of Washington at Seattle. After spending some time pursuing other interests, I began working on my M.S in business anlaytics at University of Texaas at Dallas. For more details on all that, check out [my portfolio](/portfolio/), or take a look at [my resume][4]. 
 
-<img src="{{ "/assets/images/datadriven.png" | absolute_url }}"
-width="50%" hspace="20" align="right">
+![이미지](https://ifh.cc/v-g4UgyS)
 
 I am a detailed-oriented, enthusiastic, and committed person offering optimized talents with comprehensive technical skills. I have the ability to draw impactful results to influence business decision-making.
 
