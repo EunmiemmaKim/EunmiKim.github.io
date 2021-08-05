@@ -39,7 +39,7 @@ I am going to explain the graphs and metrics. There are 3 Metircs, Total number 
 
 The map shows the distribution of Ebola virus, and when clicked, the number of each case and number of deaths is displayed. Also, There are the graphs of the moratarity rate and the recovery rate around world. The last graph presents the five most serious countries with the number of the confirmed case.
 
-![이미지](/assets/images/ebola.png)
+![ebola-Copy1](https://user-images.githubusercontent.com/53354807/128275251-1eb683cd-119d-4818-acca-a180a19389c2.png)
 
 [1]:https://github.com/EunmiemmaKim/Ebola_shiny/blob/master/Ebolavirus_shiny.R
 <br>
